@@ -1,5 +1,4 @@
 
-Copy code
 # Libft - Your Very First Own Library
 
 Welcome to Libft! This project involves reimplementing a subset of the C standard library (libc) functions, as well as creating some additional functions. This README will guide you through the project's structure, the functions you need to implement, and other relevant information.
@@ -103,7 +102,7 @@ ft_lstmap
 Linked List Structure
 Add the following structure to your libft.h file:
 
-c
+
 Copy code
 typedef struct s_list
 {
